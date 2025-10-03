@@ -26,10 +26,10 @@
 
 ## 🚀 Projects  
 - 📱 **Audio Recorder App (React Native)** – Simple voice recorder with playback & file management  
-- 🏗️ **InSimplify[https://play.google.com/store/apps/developer?id=Insimplify] (Flutter)** – 3 apps (Sales, Construction, Tradeze) Construction management app for workflow & site tracking  
+- 🏗️ **[InSimplify](https://play.google.com/store/apps/developer?id=Insimplify) (Flutter)** – 3 apps (Sales, Construction, Tradeze) Construction management app for workflow & site tracking  
 - 👶 **Child Development AI App (Flutter)** – RAG-based chatbot for child evaluation  
 
 ## 📫 Connect with Me   
-- 💼 LinkedIn(https://www.linkedin.com/in/devendhiran-n-80a3b3263/),💡 Stack Overflow(https://stackoverflow.com/users/19108772/deva),📧 Email: nvdevadev@gmail.com 
+- 💼 [LinkedIn](https://www.linkedin.com/in/devendhiran-n-80a3b3263/),💡 [Stack Overflow](https://stackoverflow.com/users/19108772/deva),📧 [Email]: nvdevadev@gmail.com 
 
 ---
