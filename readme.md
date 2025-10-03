@@ -30,8 +30,6 @@
 - 👶 **Child Development AI App (Flutter)** – RAG-based chatbot for child evaluation  
 
 ## 📫 Connect with Me   
-- 💼 LinkedIn: [https://www.linkedin.com/in/devendhiran-n-80a3b3263/]
-- - 💡 Stack Overflow: [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white)]([https://stackoverflow.com/users/your-userid](https://stackoverflow.com/users/19108772/deva))   
-- 📧 Email: nvdevadev@gmail.com 
+- 💼 LinkedIn(https://www.linkedin.com/in/devendhiran-n-80a3b3263/),💡 Stack Overflow(https://stackoverflow.com/users/19108772/deva),📧 Email: nvdevadev@gmail.com 
 
 ---
